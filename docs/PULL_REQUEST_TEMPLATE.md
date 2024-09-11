@@ -1,9 +1,9 @@
 # Tipo de usuario
 
 - [ ] Alfa
-- [x] Bravo
+- [ ] Bravo
 - [ ] Charlie
-- [ ] Delta
+- [x] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
